@@ -1,0 +1,12 @@
+# Deep Learning
+torch
+
+# Hugging Face
+transformers
+accelerate
+sentencepiece
+
+# Jupyter Notebook
+notebook
+ipykernel
+ipywidgets
